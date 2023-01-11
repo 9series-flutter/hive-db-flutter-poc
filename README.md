@@ -4,6 +4,7 @@
 
 [![N|Solid](https://raw.githubusercontent.com/9series-flutter/hive-db-flutter-poc/master/android/app/src/main/res/playstore-icon.png)](https://www.9series.com/)
 
+
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/9series-flutter)
 
 It is a local-storage, mobile-ready, compatible, Flutter-powered Google and Android Studio editor.
@@ -24,6 +25,10 @@ It is a local-storage, mobile-ready, compatible, Flutter-powered Google and Andr
 Flutter is a lightweight markup language based on the formatting conventions that people naturally
 use in Mobile App. As [Darshan Vachhani](https://github.com/darshanvachhani08) writes code on the
 project. [Linkedin site][df1]
+
+## Sample
+
+[![N|Solid](https://raw.githubusercontent.com/9series-flutter/hive-db-flutter-poc/master/screenrecord/screen-record.gif)](https://github.com/9series-flutter/hive-db-flutter-poc/)
 
 ## Tech
 
