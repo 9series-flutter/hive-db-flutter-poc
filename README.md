@@ -4,6 +4,7 @@
 
 [![N|Solid](https://raw.githubusercontent.com/9series-flutter/hive-db-flutter-poc/master/android/app/src/main/res/playstore-icon.png)](https://www.9series.com/)
 
+
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/9series-flutter)
 
 It is a local-storage, mobile-ready, compatible, Flutter-powered Google and Android Studio editor.
@@ -25,6 +26,10 @@ Flutter is a lightweight markup language based on the formatting conventions tha
 use in Mobile App. As [Darshan Vachhani](https://github.com/darshanvachhani08) writes code on the
 project. [Linkedin site][df1]
 
+## Sample
+
+[![N|Solid](https://raw.githubusercontent.com/9series-flutter/hive-db-flutter-poc/master/screenrecord/screen-record.gif)](https://github.com/9series-flutter/hive-db-flutter-poc/)
+
 ## Tech
 
 It uses a number of open source SDK:
@@ -32,12 +37,10 @@ It uses a number of open source SDK:
 - [flutter] - Flutter enhanced for mobile and web apps!
 - [Android Studio Editor] - awesome IDE-based text editor
 
-And of course Probook itself isn't open source with a [public repository][repo]
-on GitHub.
 
 ## Installation
 
-Probook requires [flutter][flutter] Version flutter_macos_<LATEST> to run.
+It requires [flutter][flutter] Version flutter_macos_<LATEST> to run.
 
 Install the dependencies and devDependencies and start the server.
 
@@ -56,8 +59,8 @@ flutter run
 
 ## Plugins
 
-ProBook is currently extended with the following plugins. Instructions on how to use them in your
-own application are linked below.
+It is currently extended with the following plugins. Instructions on how to use them in your own
+application are linked below.
 
 | Plugin       | README                    |
 |--------------|---------------------------|
