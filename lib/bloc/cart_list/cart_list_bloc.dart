@@ -1,7 +1,6 @@
 import 'package:hive_demo/core/common_import.dart';
 
 part 'cart_list_event.dart';
-
 part 'cart_list_state.dart';
 
 /// Notifies the [CartListBloc] of a new [CartListEvent] which triggers

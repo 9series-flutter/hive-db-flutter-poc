@@ -1,7 +1,6 @@
 import 'package:hive_demo/core/common_import.dart';
 
 part 'product_list_event.dart';
-
 part 'product_list_state.dart';
 
 /// Notifies the [ProductListBloc] of a new [ProductListEvent] which triggers
