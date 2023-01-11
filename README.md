@@ -37,12 +37,10 @@ It uses a number of open source SDK:
 - [flutter] - Flutter enhanced for mobile and web apps!
 - [Android Studio Editor] - awesome IDE-based text editor
 
-And of course Probook itself isn't open source with a [public repository][repo]
-on GitHub.
 
 ## Installation
 
-Probook requires [flutter][flutter] Version flutter_macos_<LATEST> to run.
+It requires [flutter][flutter] Version flutter_macos_<LATEST> to run.
 
 Install the dependencies and devDependencies and start the server.
 
@@ -61,8 +59,8 @@ flutter run
 
 ## Plugins
 
-ProBook is currently extended with the following plugins. Instructions on how to use them in your
-own application are linked below.
+It is currently extended with the following plugins. Instructions on how to use them in your own
+application are linked below.
 
 | Plugin       | README                    |
 |--------------|---------------------------|
