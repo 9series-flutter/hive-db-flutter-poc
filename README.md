@@ -26,9 +26,9 @@ Flutter is a lightweight markup language based on the formatting conventions tha
 use in Mobile App. As [Darshan Vachhani](https://github.com/darshanvachhani08) writes code on the
 project. [Linkedin site][df1]
 
-## Sample
+## Example
 
-[![N|Solid](https://raw.githubusercontent.com/9series-flutter/hive-db-flutter-poc/master/screenrecord/screen-record.gif)](https://github.com/9series-flutter/hive-db-flutter-poc/)
+<img src="https://github.com/9series-flutter/hive-db-flutter-poc/blob/master/screenrecord/screen-record.gif?raw=true" height = "550px">
 
 ## Tech
 
